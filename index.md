@@ -1,6 +1,6 @@
 # Welcome
 
-I'm Numaan — an engineer interersted (and studying) Security Engineering and AppSec.
+I'm Numaan...an engineer interested (and studying) Security Engineering and AppSec.
 
 This site is a running log of:
 - Security writeups  
